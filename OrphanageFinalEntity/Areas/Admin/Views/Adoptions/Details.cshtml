@@ -1,0 +1,78 @@
+﻿@model OrphanageFinalEntity.Models.AdoptionRequest
+
+@Html.Partial("_Dashboard")
+
+<div>
+    <h4>Adoption Requests Details</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayName("User Id")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Gender)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Gender)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Married)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Married)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Profession)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Profession)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MonthlyIncome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MonthlyIncome)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Reason Of Adoption")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ReasonOfAdoption)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Child Status")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IfAnyChild)
+        </dd>
+
+    </dl>
+</div>
+<p>
+   
+    @Html.ActionLink("Back to List", "Index","",new { @class = "btn btn-primary"})
+</p>

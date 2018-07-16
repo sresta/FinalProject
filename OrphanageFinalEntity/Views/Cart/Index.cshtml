@@ -1,0 +1,38 @@
+﻿ @model IEnumerable<OrphanageFinalEntity.Models.CartItem>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>My Donation Info</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+         @Html.DisplayName("Orphan")
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Amount)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Orphan.FirstName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Amount)
+        </td>
+        <td>
+            @Html.ActionLink("Delete", "Delete", new { id = item.Orphan.Id })
+        </td>
+        <td>
+            @Html.ActionLink("Sponsor", "Create", "Sponsor", new { id = item.OrphanId})
+        </td>
+    </tr>
+}
+
+</table>

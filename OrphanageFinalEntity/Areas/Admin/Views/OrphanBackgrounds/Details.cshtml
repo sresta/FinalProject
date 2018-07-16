@@ -1,0 +1,66 @@
+﻿@model OrphanageFinalEntity.Models.OrphanBackground
+
+@Html.Partial("Dashboard")
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Orphan.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Orphan.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FatherName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FatherName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MotherName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MotherName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Relative)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Relative)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AddressDetail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AddressDetail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ContactNo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ContactNo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BoardedDetail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BoardedDetail)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

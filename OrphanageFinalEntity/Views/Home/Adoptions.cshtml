@@ -1,0 +1,106 @@
+﻿
+@{
+    ViewBag.Title = "Adoptions";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>GET-INVOLVED</title>
+
+    <!-- core CSS -->
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet">
+    <link href="~/Content/font-awesome.min.css" rel="stylesheet">
+    <link href="~/Content/prettyPhoto.css" rel="stylesheet">
+    <link href="~/Content/animate.min.css" rel="stylesheet">
+    <link href="~/Content/aboutus.css" rel="stylesheet">
+    <link href="~/Content/responsive.css" rel="stylesheet">
+    <link href="~/Content/bottom.css" rel="stylesheet">
+    <link rel="stylesheet" media="screen" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
+    <link rel="shortcut icon" href="~/images/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="~/images/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="~/images/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="~/images/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="~/images/ico/apple-touch-icon-57-precomposed.png">
+</head><!--/head-->
+
+<body>
+    <section id="adoption">
+        <div class="container">
+            <div class="col-md-1"></div>
+            <div class="col-md-10">
+                
+                <h2>Adopt a Child !</h2>
+                <p>
+                    </br>
+                    Nepal  is one of the least developed countries in the world. Almost 60% of the population lives under the poverty line. Due to extreme poverty, in most of the cases, the babies are abandoned by their parents and these little God’s Gift get into an orphanage and they wait for someone loving and caring to get them into their sweet homes to let them enjoy their fundamental rights.
+                    According to the adoption rules of the Government in Nepal, infertile couples married for four years or even single women, widow, divorcee are eligible to adopt a child. The age difference between the adopted child and the parent should be not less than 35 and not more than 55 years.
+                    Only one child of each sex is allowed for adoption except in the cases of twins. If the willing adoptive parent has his/her own offspring, in that case, acceptance to adopt a child of another sex can be granted and in this case the adopted child should age less than the offspring.
+                 
+                 </p>
+                
+
+                <div class="col-md-1"></div>
+            </div>
+</section>
+
+    <section class="center">
+        <div class="container">
+            <div class="button">
+                @if (Session["UserId"] != null)
+                {                @Html.ActionLink("Adopt", "Create", "Adoption","",new { @class = "btn btn-danger" })
+                }
+                else
+                {
+                    @Html.ActionLink("Adopt","Login","Login","",new { @class = "btn btn-danger" })
+                }
+
+            </div>
+            
+        </div>
+       
+    </section>
+    <section class="successstory">
+        
+        <div class="container">
+            <h2>Some of our success stories !</h2>
+            <div class="col-md-4">
+                <img class="img-responsive" src="~/images/successstory1.png" alt="">
+            </div>
+            <div class="col-md-4">
+                <img class="img-responsive" src="~/images/successstory2.png" alt="">
+            </div>
+            <div class="col-md-4">
+                <img class="img-responsive" src="~/images/successstory3.png" alt="">
+            </div>
+        </div>
+    </section>
+  
+ 
+
+
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.prettyPhoto.js"></script>
+    <script src="js/jquery.isotope.min.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/wow.min.js"></script>
+</body>
+</html>
+
+
+

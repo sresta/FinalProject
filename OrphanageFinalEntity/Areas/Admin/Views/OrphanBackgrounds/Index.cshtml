@@ -1,0 +1,65 @@
+﻿@model IEnumerable<OrphanageFinalEntity.Models.OrphanBackground>
+
+@Html.Partial("_Dashboard")
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.OrphanId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FatherName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MotherName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Relative)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AddressDetail)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ContactNo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BoardedDetail)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.OrphanId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FatherName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MotherName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Relative)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AddressDetail)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ContactNo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BoardedDetail)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>
+

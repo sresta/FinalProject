@@ -1,0 +1,68 @@
+﻿@model IEnumerable<OrphanageFinalEntity.Models.AdoptionRequest>
+
+@Html.Partial("_Dashboard")
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayName("User Id")
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Gender)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Address)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Married)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Profession)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MonthlyIncome)
+        </th>
+        <th>
+            @Html.DisplayName("Reason Of Adoption")
+        </th>
+        <th>
+            @Html.DisplayName("Child Status")
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Gender) 
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Address)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Married)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Profession)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MonthlyIncome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ReasonOfAdoption)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.IfAnyChild)
+        </td>
+       
+        <td>
+           
+            @Html.ActionLink("Send Email", "SendMail", new { id=item.UserId}, new { @class = "btn btn-success" });
+           
+        </td>
+    </tr>
+}
+
+</table>

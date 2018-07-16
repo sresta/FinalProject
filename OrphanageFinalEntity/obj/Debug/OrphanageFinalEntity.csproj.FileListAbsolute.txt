@@ -1,0 +1,170 @@
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\OrphanageFinalEntity.dll.config
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\OrphanageFinalEntity.dll
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\OrphanageFinalEntity.pdb
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\Antlr3.Runtime.dll
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\EntityFramework.dll
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\EntityFramework.SqlServer.dll
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\Microsoft.Web.Infrastructure.dll
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\Newtonsoft.Json.dll
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\System.Web.Helpers.dll
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\System.Web.Mvc.dll
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\System.Web.Optimization.dll
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\System.Web.Razor.dll
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\System.Web.WebPages.Deployment.dll
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\System.Web.WebPages.dll
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\System.Web.WebPages.Razor.dll
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\WebGrease.dll
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\EntityFramework.xml
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\EntityFramework.SqlServer.xml
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\System.Web.Helpers.xml
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\System.Web.Mvc.xml
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\System.Web.Optimization.xml
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\System.Web.Razor.xml
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\System.Web.WebPages.xml
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\System.Web.WebPages.Deployment.xml
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\System.Web.WebPages.Razor.xml
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\Antlr3.Runtime.pdb
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\Newtonsoft.Json.xml
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.dll
+c:\users\hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.pdb
+C:\Users\Hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.Initialcreate.resources
+C:\Users\Hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.csproj.GenerateResource.Cache
+C:\Users\Hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.carerpasswordremoved.resources
+C:\Users\Hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.removerolefromuser.resources
+C:\Users\Hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.addrole.resources
+C:\Users\Hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.addCarer.resources
+C:\Users\Hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.addimagepath.resources
+C:\Users\Hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.changecarertosupervisor.resources
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.removerolwemodel.resources
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.addpasswordfieldinsupervisor.resources
+C:\Users\Hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.editusermodel.resources
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\WebMatrix.Data.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\WebMatrix.WebData.dll
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\WebMatrix.Data.xml
+C:\Users\Hp\Documents\Visual Studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\WebMatrix.WebData.xml
+C:\Users\Hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.csprojResolveAssemblyReference.cache
+C:\Users\Hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.addbackgrounddetail.resources
+C:\Users\Hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.changeinmodels.resources
+C:\Users\Hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.updateusers.resources
+C:\Users\Hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.changeimagepathtopicture.resources
+C:\Users\Hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.addedorphaninsponsor.resources
+C:\Users\Hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.removenooforphans.resources
+C:\Users\Hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.updateadoptionreq.resources
+C:\Users\Hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.updatesponsor.resources
+C:\Users\Hp\documents\visual studio 2015\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.addstatustouser.resources
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\OrphanageFinalEntity.dll.config
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\OrphanageFinalEntity.dll
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\OrphanageFinalEntity.pdb
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\Antlr3.Runtime.dll
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\EntityFramework.dll
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\EntityFramework.SqlServer.dll
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\Newtonsoft.Json.dll
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\System.Web.Helpers.dll
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\System.Web.Mvc.dll
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\System.Web.Optimization.dll
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\System.Web.Razor.dll
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\System.Web.WebPages.dll
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\System.Web.WebPages.Razor.dll
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\WebGrease.dll
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\WebMatrix.Data.dll
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\WebMatrix.WebData.dll
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\Antlr3.Runtime.pdb
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\EntityFramework.xml
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\EntityFramework.SqlServer.xml
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\Newtonsoft.Json.xml
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\System.Web.Mvc.xml
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\System.Web.Helpers.xml
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\System.Web.Optimization.xml
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\System.Web.Razor.xml
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\System.Web.WebPages.xml
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\System.Web.WebPages.Razor.xml
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\WebMatrix.Data.xml
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\bin\WebMatrix.WebData.xml
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.csprojResolveAssemblyReference.cache
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.Initialcreate.resources
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.carerpasswordremoved.resources
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.removerolefromuser.resources
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.addrole.resources
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.addCarer.resources
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.addimagepath.resources
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.changecarertosupervisor.resources
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.removerolwemodel.resources
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.addpasswordfieldinsupervisor.resources
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.editusermodel.resources
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.addbackgrounddetail.resources
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.changeinmodels.resources
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.updateusers.resources
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.changeimagepathtopicture.resources
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.addedorphaninsponsor.resources
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.removenooforphans.resources
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.updateadoptionreq.resources
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.updatesponsor.resources
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.addstatustouser.resources
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.csproj.GenerateResource.Cache
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.csproj.CoreCompileInputs.cache
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.dll
+E:\Projects\OrphanageFinalEntity\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.pdb
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\OrphanageFinalEntity.dll.config
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\OrphanageFinalEntity.dll
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\OrphanageFinalEntity.pdb
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\Antlr3.Runtime.dll
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\EntityFramework.dll
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\EntityFramework.SqlServer.dll
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\Newtonsoft.Json.dll
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\System.Web.Helpers.dll
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\System.Web.Mvc.dll
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\System.Web.Optimization.dll
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\System.Web.Razor.dll
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\System.Web.WebPages.dll
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\WebGrease.dll
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\WebMatrix.Data.dll
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\WebMatrix.WebData.dll
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\Antlr3.Runtime.pdb
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\EntityFramework.xml
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\EntityFramework.SqlServer.xml
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\Newtonsoft.Json.xml
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\System.Web.Mvc.xml
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\System.Web.Helpers.xml
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\System.Web.Optimization.xml
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\System.Web.Razor.xml
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\System.Web.WebPages.xml
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\WebMatrix.Data.xml
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\bin\WebMatrix.WebData.xml
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.csprojResolveAssemblyReference.cache
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.Initialcreate.resources
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.carerpasswordremoved.resources
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.removerolefromuser.resources
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.addrole.resources
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.addCarer.resources
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.addimagepath.resources
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.changecarertosupervisor.resources
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.removerolwemodel.resources
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.addpasswordfieldinsupervisor.resources
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.editusermodel.resources
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.addbackgrounddetail.resources
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.changeinmodels.resources
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.updateusers.resources
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.changeimagepathtopicture.resources
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.addedorphaninsponsor.resources
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.removenooforphans.resources
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.updateadoptionreq.resources
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.updatesponsor.resources
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.Migrations.addstatustouser.resources
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.csproj.GenerateResource.Cache
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.csproj.CoreCompileInputs.cache
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.dll
+C:\Users\Sonika\source\repos\FinalYearProject\OrphanageFinalEntity\obj\Debug\OrphanageFinalEntity.pdb

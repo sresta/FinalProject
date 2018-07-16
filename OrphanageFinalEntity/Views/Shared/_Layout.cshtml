@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title Orphanage Management</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery") 
+    <link href="~/Content/aboutus.css" rel="stylesheet" />
+    <link href="~/Content/bottom.css" rel="stylesheet">
+</head>
+<body>
+   <header>
+        <div class="top-bar">
+            @Html.Partial("_Header")
+        </div>
+    </header>
+   <div class="container">
+        @RenderBody()
+    </div>
+    <footer>
+        <div class="midnight-blue">
+            @Html.Partial("_Footer")
+        </div>
+    </footer>
+
+   
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

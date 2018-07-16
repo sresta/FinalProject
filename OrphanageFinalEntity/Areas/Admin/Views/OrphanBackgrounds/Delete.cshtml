@@ -1,0 +1,74 @@
+﻿@model OrphanageFinalEntity.Models.OrphanBackground
+@Html.Partial("_Dashboard")
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Orphan.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Orphan.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FatherName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FatherName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MotherName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MotherName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Relative)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Relative)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AddressDetail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AddressDetail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ContactNo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ContactNo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BoardedDetail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BoardedDetail)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>
